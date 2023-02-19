@@ -1,0 +1,1 @@
+fullstack web app to track no name (loblaws) product details
