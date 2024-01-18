@@ -1,1 +1,1 @@
-fullstack web app to track no name (loblaws) product details
+basic scraper for kirkland canada products
